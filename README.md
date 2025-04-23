@@ -1,17 +1,6 @@
 # AI-Powered Clothing Fit Finder for Shopify
 
-This project helps users find well-fitting clothes on Shopify using artificial intelligence. With just a single front-facing photo, the system extracts precise body measurements and suggests clothes that match the user's real body size.
-
-## 🧠 Project Overview
-
-The application uses computer vision to analyze a user's body shape and provide personalized clothing recommendations. It seamlessly integrates with Shopify to enhance the online shopping experience.
-
-## ✨ Key Features
-
-- 📸 **Photo-Based Measurement**: Users simply upload one clear front photo in well-fitting clothes.
-- 📏 **AI Body Measurement**: The system automatically detects key body points and estimates measurements like waist, hips, and arms.
-- 🛍️ **Smart Shopify Integration**: Measurements are sent to Shopify, where size-matched clothing is recommended.
-- 💡 **No Extra Hardware**: No need for special cameras or equipment—just one photo is enough.
+This project helps users find well-fitting clothes on Shopify using artificial intelligence. With just a single front-facing photo, the system extracts precise body measurements and suggests clothes that match the user's real body size. The application uses computer vision to analyze a user's body shape and provide personalized clothing recommendations. It seamlessly integrates with Shopify to enhance the online shopping experience.
 
 ## 📷 App Preview
 
@@ -19,9 +8,17 @@ The application uses computer vision to analyze a user's body shape and provide 
 ![Upload Photo](IMG_8446.jpg)
 
 ### 2. Body Measurement Detection
+![Body Measurement](182729.png)
 ![Body Measurement](output.png)
-![Body Measurement](output1.png)
-![Body Measurement](output2.png)
+![Body Measurement](output1.jng)
+![Body Measurement](output2.jng)
+
+## ✨ Key Features
+
+- 📸 **Photo-Based Measurement**: Users simply upload one clear front photo in well-fitting clothes.
+- 📏 **AI Body Measurement**: The system automatically detects key body points and estimates measurements like waist, hips, and arms.
+- 🛍️ **Smart Shopify Integration**: Measurements are sent to Shopify, where size-matched clothing is recommended.
+- 💡 **No Extra Hardware**: No need for special cameras or equipment—just one photo is enough.
 
 ## 🚀 How It Works
 
