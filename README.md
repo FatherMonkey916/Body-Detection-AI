@@ -19,10 +19,9 @@ The application uses computer vision to analyze a user's body shape and provide 
 ![Upload Photo](IMG_8446.jpg)
 
 ### 2. Body Measurement Detection
-![Body Measurement](images/body-detection.png)
-
-### 3. Personalized Clothing Suggestions
-![Clothing Suggestions](images/clothing-suggestions.png)
+![Body Measurement](output.png)
+![Body Measurement](output1.png)
+![Body Measurement](output2.png)
 
 ## 🚀 How It Works
 
