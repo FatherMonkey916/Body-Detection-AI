@@ -10,8 +10,8 @@ This project helps users find well-fitting clothes on Shopify using artificial i
 ### 2. Body Measurement Detection
 ![Body Measurement](182729.png)
 ![Body Measurement](output.png)
-![Body Measurement](output1.jng)
-![Body Measurement](output2.jng)
+![Body Measurement](output1.jpg)
+![Body Measurement](output2.jpg)
 
 ## ✨ Key Features
 
