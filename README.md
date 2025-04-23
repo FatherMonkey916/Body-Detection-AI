@@ -16,7 +16,7 @@ The application uses computer vision to analyze a user's body shape and provide 
 ## 📷 App Preview
 
 ### 1. Upload Photo Screen
-![Upload Photo](images/upload-photo.png)
+![Upload Photo](IMG_8446.jpg)
 
 ### 2. Body Measurement Detection
 ![Body Measurement](images/body-detection.png)
